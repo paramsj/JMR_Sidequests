@@ -1,0 +1,14 @@
+# requirements.txt v2.0 | 4 April 2026
+# BERTopic + Mistral LLM (French, Apache 2.0, GDPR-safe)
+langchain
+langchain-mistralai
+langgraph
+langchain-core
+bertopic
+sentence-transformers
+numpy
+pandas
+plotly
+kaleido
+gradio
+python-dotenv
